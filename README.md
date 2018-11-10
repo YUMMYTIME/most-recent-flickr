@@ -1,10 +1,7 @@
-# Mini-Flickr
-
-##### How to install this project
-
+Mini-Flickr
+How to install this project
 Run following command in your terminal:
-
-  1.git clone https://github.com/YUMMYTIME/mini-flickr.git
+1. git clone https://github.com/YUMMYTIME/mini-flickr.git
 
 2. cd mini-flickr
 
